@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zoaahmed
 - 👀 I’m interested in learning upcomig latest technologies and programming languages
 - 🌱 I’m currently learning computer applications
-- 💞️ I’m looking to collaborate on codimg and web development related projects
+- 💞️ I’m looking to collaborate on coding and web development related projects
 - 📫 How to reach me message me
 
 <!---
